@@ -1,0 +1,48 @@
+header{
+    background-color: lightgray;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: 25px;
+}
+
+nav ul, header{
+    display: flex;
+    list-style: none;
+}
+
+nav ul{
+    gap: 15px;
+}
+
+h1{
+    color: red;
+}
+
+#Logo{
+    width: 200px;
+}
+
+section{
+    background-color: cyan;
+}
+
+h2{
+    color: red;
+}
+
+.question{
+    font-weight: bold;
+    font-style:italic;
+    font-size: 20px;
+    color: rgb(71, 71, 193);
+}
+
+footer {
+    background-color: black;
+    
+}
+
+.footertext{
+    color: white;
+}
